@@ -10,7 +10,7 @@
   <img src="https://media.discordapp.net/attachments/1493261683844714576/1551308412845826068/streamproof-menu.png?ex=6ab1800b&is=6ab02e8b&hm=2b6ca7ba577e5198e154d4b5b4c43585e7412c4e8789ea32c7080d9fc69867be&=&format=webp&quality=lossless&width=512&height=289" alt="SERYX FiveM Preview" width="100%" />
 </p>
 
-Welcome to the **free fivem software** repository. SERYX is one of the most refined and advanced FiveM software enhancements on the market, built with a primary focus on **stealth, high performance, and long-term undetection**.
+Welcome to the **free fivem softwares** repository. SERYX is one of the most refined and advanced FiveM software enhancements on the market, built with a primary focus on **stealth, high performance, and long-term undetection**.
 
 ---
 
